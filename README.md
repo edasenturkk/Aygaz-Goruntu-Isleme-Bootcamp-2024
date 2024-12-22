@@ -1,6 +1,6 @@
 # Aygaz Görüntü İşleme Bootcamp 
 ## Authors
-* ** The project was prepared by İbrahim Okan Önal and Eda Şentürk.** 
+# **The project was prepared by İbrahim Okan Önal and Eda Şentürk.**
 * [Click to go to Kaggle Project ](https://www.kaggle.com/code/edaentrk/animal-detection-with-cnn)
 * [Click to go to İbrahim Okan Önal Linkedin ](https://www.linkedin.com/in/okan-%C3%B6nal-437a5b248/)
 * [Click to go to Eda Şentürk Linkedin ](https://www.linkedin.com/in/edasenturk/)
