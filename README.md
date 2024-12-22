@@ -5,8 +5,8 @@
 * [Click to go to İbrahim Okan Önal Linkedin ](https://www.linkedin.com/in/okan-%C3%B6nal-437a5b248/)
 * [Click to go to Eda Şentürk Linkedin ](https://www.linkedin.com/in/edasenturk/)
 
-Aygaz Görüntü İşleme Bootcamp 2024 :direct_hit:
-:push_pin: Purpose of the Project:
+## Aygaz Görüntü İşleme Bootcamp 2024 
+# Purpose of the Project:
 
 - This project aims to create a Convolutional Neural Network (CNN) model for classifying animals.
 - This model, which has the ability to effectively analyze and process visual data, obtains accurate results by recognizing and classifying different types of animals (e.g. "elephant", "fox", "rabbit"). **
